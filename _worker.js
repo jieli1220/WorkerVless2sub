@@ -30,7 +30,7 @@ let addressesnotls = [
 'malaysia.com:80#优选',
 'russia.com:80#优选',
 'singapore.com:80#优选',
-'skk.moe	:80#优选',
+'skk.moe:80#优选',
 'www.visa.com:80#优选',
 'www.visa.com.sg:80#优选',
 'www.visa.com.hk:80#优选',
@@ -48,11 +48,11 @@ let addressesnotls = [
 'www.hugedomains.com:80#优选',
 'www.udacity.com:80#优选',
 'www.4chan.org:80#优选',
-'www.okcupid.com	:80#优选',
+'www.okcupid.com:80#优选',
 'www.glassdoor.com:80#优选',
 'www.udemy.com:80#优选',
 'www.baipiao.eu.org:80#优选',
-'cdn.anycast.eu.org	:80#优选',
+'cdn.anycast.eu.org:80#优选',
 'cdn-all.xn--b6gac.eu.org:80#优选',
 'cdn-b100.xn--b6gac.eu.org:80#优选',
 'xn--b6gac.eu.org:80#优选',
@@ -67,7 +67,6 @@ let addressesnotls = [
 'edtunnel-dgp.pages.dev:80#优选',
 'www.d-555.com:80#优选',
 'fbi.gov:80#优选',
-
 ];
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
