@@ -67,7 +67,6 @@ let addressesnotls = [
 ‘www.iakeys.com:80#优选',
 ‘edtunnel-dgp.pages.dev:80#优选',
 ‘www.d-555.com:80#优选',
-‘fbi.gov:80#优选',
 
 ];
 
